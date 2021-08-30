@@ -1,5 +1,8 @@
 # Smart-Home-with-Voice-UI
-This is a smart bulb connected to a voice user interface. The demo here shows that with a handphone and a smart bulb we can turn the bulb on, off and display different colours.
+What is the benefit of using voice activated Smart Bulb?
+The fun of creating different custom lighting effects and making it convenient hands free control over your light. Just light a remote control, but better, because it uses your handphone.
+
+The demo here shows that with a handphone and a smart bulb we can turn the bulb on, off and display different colours using voice.
 
 ![Smartbulb.gif](smartbulb.gif)
 
